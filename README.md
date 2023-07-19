@@ -42,4 +42,4 @@ voxels_out, coors_out, num_points_per_voxel_out = _Voxelization.apply(input_pcd_
 - [ ] Batch implementation
 
 ## Acknowledgement
-Thanks for the open souce code [mmcv](https://github.com/open-mmlab/mmcv), [mmdet](https://github.com/open-mmlab/mmdetection) and [mmdet3d](https://github.com/open-mmlab/mmdetection3d).
+Thanks for the open souce code [mmcv](https://github.com/open-mmlab/mmcv), [mmdet](https://github.com/open-mmlab/mmdetection) and [mmdet3d](https://github.com/open-mmlab/mmdetection3d). And Thanks for our contributor [RunkaiZhao]().
